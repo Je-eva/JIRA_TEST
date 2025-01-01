@@ -85,6 +85,7 @@ This guide provides an overview of Jira, focusing on its Scrum and Kanban method
 - **Prioritization**:
   - Use team discussions to assign priority numbers.
   - Include visuals to indicate story points and their meanings.
+![This image shows the values to be assigned for knowing the priority](https://github.com/user-attachments/assets/7a80bc66-1494-4fed-95da-3a839ea636d1)
 
 ---
 
@@ -134,6 +135,5 @@ By following these steps, you can effectively manage your projects in Jira, ensu
 ![how a jira account would look like](https://github.com/user-attachments/assets/2c11945c-488d-4e55-95a0-020674521c85)
 
 
-![This image shows the values to be assigned for knowing the priority](https://github.com/user-attachments/assets/7a80bc66-1494-4fed-95da-3a839ea636d1)
 
 
