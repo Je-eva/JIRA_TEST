@@ -135,5 +135,4 @@ By following these steps, you can effectively manage your projects in Jira, ensu
 ![how a jira account would look like](https://github.com/user-attachments/assets/2c11945c-488d-4e55-95a0-020674521c85)
 
 
-
-
+### ![For anyone interested in learning it](https://youtu.be/NDVSMlVYxm8?feature=shared)
